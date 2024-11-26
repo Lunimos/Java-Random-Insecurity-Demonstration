@@ -1,1 +1,1 @@
-# Java-Random-Insecurity-Demonstration
+# Java Random Insecurity Demonstration: Guessing Game and Seed Predictor
